@@ -511,11 +511,6 @@ DOMAIN-SUFFIX,metapix.net,PROXY
 DOMAIN-SUFFIX,s3.amazonaws.com,PROXY
 DOMAIN-SUFFIX,zaobao.com.sg,PROXY
 
-# > Pornhub
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,phprcdn.com
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,pornhubpremium.com
 # Telegram
 DOMAIN-SUFFIX,t.me,Telegram
 DOMAIN-SUFFIX,tdesktop.com,Telegram
@@ -546,10 +541,3 @@ HOST-SUFFIX,githubassets.com,Github
 HOST-SUFFIX,githubusercontent.com,Github
 HOST-KEYWORD,github,Github
 
-# > TikTok
-USER-AGENT,TikTok*
-DOMAIN-SUFFIX,muscdn.com
-DOMAIN-SUFFIX,musical.ly
-DOMAIN-SUFFIX,tiktokv.com
-DOMAIN-SUFFIX,tiktokcdn.com
-DOMAIN-KEYWORD,-tiktokcdn-com
