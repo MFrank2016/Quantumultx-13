@@ -11,5 +11,9 @@
 ![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/020.11.JPG)
 
 
+
+
+
+
 图标的效果图！
-![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.11.JPG)
+![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.11..JPG)
