@@ -1,6 +1,6 @@
 # Quantumultx策略组图标
   个人自用图标，如果你也喜欢使用地址https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/图标名.png
-原logo图标建议使用的去掉一般策略组名字下面的emoji图标便可简观一点。
+
 
 使用方法打开QuanX点击右下角风车图标拉到最下面找到配置文件-编辑，找到策略组［policy］字段，在相应策略组中末尾，加上img-url= https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/图标名.png 
   
