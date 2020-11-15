@@ -8,7 +8,7 @@
  
 
 图标对应名字
-![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/02.11.jpg)
+![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/0211..JPG)
 
 
 
