@@ -10,6 +10,7 @@
 图标对应名字
 ![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/0211..JPG)
 
+![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.11.0.jpg)
 
 
 
