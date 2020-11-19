@@ -1,4 +1,4 @@
-# Quantumultx策略组图标
+1# Quantumultx策略组图标
  个人自用图标，如果你也喜欢，使用地址https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/图标名.png
 
 
