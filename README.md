@@ -12,7 +12,7 @@
 
 ![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.11.0.jpg)
 
-更改iplc和美国为下图
+更改iplc和美国为下图及增加一个hk2底层为全透明
 
 ![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/11.2020..jpg)
 
