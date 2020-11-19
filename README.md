@@ -12,9 +12,9 @@
 
 ![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.11.0.jpg)
 
+更改iplc为下图
 
-
-
+![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/11.2020.jpg)
 
 图标的效果图！
 ![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.11..JPG)
