@@ -8,13 +8,7 @@
  
 
 图标对应名字
-![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/0211..JPG)
-
-![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.11.0.jpg)
-
-更改iplc和美国为下图及增加一个hk2底层为全透明
-
-![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/11.2020..jpg)
+![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.11.JPG)
 
 图标的效果图！
 ![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.11..JPG)
