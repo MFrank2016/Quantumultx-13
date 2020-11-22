@@ -8,7 +8,7 @@
  
 
 图标对应名字
-![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020-11.jpg)
+![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020-11.JPEG)
 
 图标的效果图！
 ![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/202011.JPG)
