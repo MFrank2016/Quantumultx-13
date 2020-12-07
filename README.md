@@ -13,7 +13,7 @@
 ![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/AC620521-7C48-45F0-9E28-1DD04C60D0DC.jpeg)
 
 图标的效果图！
-![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/202011.JPG)
+![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/6AEB8DC0-0E2D-46B3-AD92-001FD801BA74.jpeg)
 
 
 
