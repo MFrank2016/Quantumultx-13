@@ -10,7 +10,7 @@
 图标对应名字
 ![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020-11：.jpg)
 
-![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/6AEB8DC0-0E2D-46B3-AD92-001FD801BA74.jpeg)
+![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.png)
 
 更改2图
 ![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/A0974588-8FE7-4E4C-855E-8461A143A2C4.jpeg)
