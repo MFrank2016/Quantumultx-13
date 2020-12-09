@@ -17,6 +17,5 @@
 #图标的效果图！
 
 ![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.5.jpg)
-![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.jpg)
 ![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020-.jpg)
 
