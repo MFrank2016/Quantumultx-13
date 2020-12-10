@@ -10,7 +10,7 @@
  
 #图标对应名字
 ![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020-10.JPEG)
-下面是小长方形68x46国旗图标，名字为大写字母。
+#下面是小长方形68x46国旗图标，名字为大写字母。
 ![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.3.jpg)
 
 
