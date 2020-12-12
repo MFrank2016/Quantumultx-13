@@ -16,8 +16,6 @@
 
 
 #图标的效果图！
-![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.6.jpg)
-![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.5.jpg)
-![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020-.jpg)
+![https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.1.JPEG)
 
 #机场3图
