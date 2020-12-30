@@ -9,7 +9,7 @@
 注：reject, direct, proxy, 图标只支持本地挂载，只要把图标存入手机里quantumultx的lmages文件内，并且图标的名字一样使用reject，direct，proxy即可。挂载远程图标不生效时，打开手机里quantumultx的lmages文件夹，把原有的图标文件删掉，再把quantumultx退出后台重新打开便可。
  
 #图标对应名字
-![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.4.JPEG)
+![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.4..JPEG)
 
 
 
