@@ -11,7 +11,7 @@
 2#图标对应名字
 ![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.1.JPEG)
 2.1#节点订阅图标的对应各字和显示结果图。
- 自用于机场节点的订阅图标，所以调了不一样的渐别色彩，至于用做策略组的图标，不太一致了。
+ 自用于机场节点的订阅图标，所以调了不一样的渐别色彩，至于用做策略组的图标，色调就不太一致咯！
 
 ![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.4.JPEG)
  显示结果图
