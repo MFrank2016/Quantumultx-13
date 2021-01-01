@@ -14,7 +14,8 @@
  自用于机场节点的订阅图标，所以调了不一样的渐别色彩，至于用做策略组的图标，不太一致了。
 
 ![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.4.JPEG)
-
+ 显示结果图
+![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.5.JPG)
 #下面是小长方形68x46国旗图标，名字为大写字母。
 ![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.3.JPEG)
 
