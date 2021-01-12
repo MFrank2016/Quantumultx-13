@@ -14,9 +14,9 @@
 ![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.1.JPEG)
 2.1#增加三款图标，可用于节点的订阅及策略组。图标对应名字的使用及效果图如下。
 
-[image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2021.1.jpg)
+![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2021.1.jpg)
 
-[image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/20211.jpg)
+![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/20211.jpg)
 
 #下面是小长方形68x46国旗图标，名字为大写字母。
 ![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.3.JPEG)
