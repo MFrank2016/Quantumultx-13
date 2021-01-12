@@ -12,7 +12,7 @@
 2#图标对应名字
 
 ![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.1.JPEG)
-2.1#增加三款图标，用于节点的订阅，图标对应名字的使用及效果图如下。
+2.1#增加三款图标，图标对应名字的使用及效果图如下。
 
 ![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2021.1.JPEG)
 
