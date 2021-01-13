@@ -12,7 +12,7 @@
  
 2#图标对应名字
 
-![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/1.jpg)
+![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/01.JPEG)
 
 
 3#图标的效果图！
