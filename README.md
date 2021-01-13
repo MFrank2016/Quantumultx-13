@@ -1,6 +1,7 @@
 1# Quantumultx策略组图标
 
 👤 个人自用图标，采用网络普通位图进行抠图（非网站矢量图）比较粗糙。图片的地址https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/图标名.png
+    旧版图标为大一号图，地址为https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/图标名.png
 
 使用方法：打开QuanX点击右下角风车图标拉到最下面找到配置文件-编辑，找到策略组［policy］字段，在相应策略组后面，加上img-url= https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/图标名.png 
 （温馨提示：quantumulx换另一配置时，做好原有的备份。）
