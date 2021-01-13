@@ -20,5 +20,4 @@
 
 ![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/%233-02.JPEG)
 
-![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/%233-03.JPEG)
 
