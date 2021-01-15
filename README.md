@@ -5,6 +5,9 @@
 
 使用方法：打开QuanX点击右下角风车图标拉到最下面找到配置文件-编辑，找到策略组［policy］字段，在相应策略组后面，加上img-url= https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/图标名.png 
 （温馨提示：quantumulx换另一配置时，做好原有的备份。）
+✅随着quantumulx的更新，原图标已全面更新，更改尺寸，并增加三个自用图标，更改显示如下图。
+
+![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2.JPEG)
 
 例图：1是图片位置，2是图片地址。3，是机场节点订阅的图标位置。![image](https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/x/2020.2.JPEG)
   
