@@ -1,4 +1,4 @@
-1# 1#策略组分流全配置样本参考：https://raw.githubusercontent.com/gitb1/Quantumultx/main/conf
+1# 1#配置样本作参考：https://raw.githubusercontent.com/gitb1/Quantumultx/main/conf
 
 操作方法：可以直接点链接，或打开QuanX点击右下角风车图标拉到最下面的配置文件-点击导出，（备份保留好自己原有的配置之后。再点下载那里，输入以上地址即可。
 
