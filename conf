@@ -192,10 +192,11 @@ https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrit
 https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Rewrite_lhie1.conf, tag=lhie1去广告, update-interval=86400, opt-parser=false, enabled=true
 
 
-#🔀本地分流规则优先生效)
+#🔀本地规则优先生效)
 [filter_local]
-#局域网
-host-suffix, local, direct
+#
+
+host, steamdb.info, direct
 ip-cidr, 10.0.0.0/8, direct
 ip-cidr, 127.0.0.0/8, direct
 ip-cidr, 172.16.0.0/12, direct
@@ -219,7 +220,8 @@ final, proxy
 #⏱ 构造运作
 [task_local]
 
-
+#彩云天气
+0 0-3/1,7-23/1 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js, tag=彩云天气, img-url=https://raw.githubusercontent.com/Orz-3/task/master/caiyun.png, enabled=true
 
 #🚦证书&主机名
 [mitm]
