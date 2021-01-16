@@ -2,3 +2,8 @@
 DOMAIN,appstoreconnect.apple.com,App Store Connect
 DOMAIN,iosapps-ssl.itunes.apple.com,App Store Connect
 DOMAIN,itcmobile.itunes.apple.com,App Store Connect
+
+
+# TestFlight
+DOMAIN,beta.apple.com, direct
+DOMAIN,testflight.apple.com, direct
