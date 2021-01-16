@@ -69,10 +69,10 @@ static=全球互联, 健康检测, reject, proxy, 香港, 台湾, img-url=https:
 #⛄️ github 
 static=github, proxy, reject, 健康检测, 香港, 台湾, direct, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/github.png
 
-#🌈 谷歌 
+#🔎 谷歌 
 static=Google, proxy, reject, 健康检测, 香港, 日本, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/google.png
 
-#🛫 电报代理 
+#📟 电报代理 
 static=电报代理, proxy, reject, 新加坡, 香港, 台湾, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/telegram.png
 
 #🎼 声田音乐 
@@ -84,7 +84,7 @@ static=Twitter, reject, 健康检测, proxy, 香港, img-url=https://raw.githubu
 #🎬 奈飞
 static=Netflix, 健康检测, reject, 香港, proxy, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/netflix.png
 
-#📽tiktok 
+#🎶tiktok 
 static=tiktok, direct, proxy, 健康检测, 香港, 美国, 日本, 台湾, reject, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/tiktok.png
 
 #📺 Youtube 
@@ -120,7 +120,7 @@ available=新加坡, server-tag-regex=新加坡|SG|sg, img-url=https://raw.githu
 #英国 🇬🇧
 available=英国, server-tag-regex=英国|UK|uk, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/uk.png
 
-#专线 🎢
+#专线 🚊
 available=iplc, server-tag-regex=专线|打机|游戏|(?i)iplc|iepl, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/iplc.png
 
 #韩国 🇰🇷
@@ -134,7 +134,7 @@ available=韩国, server-tag-regex=韩国|KR|kr, img-url=https://raw.githubuserc
 #广告拦截🔰
 https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block_Plus.txt, tag=八万广告, update-interval=86400, opt-parser=false, enabled=true
 
-#🌈 谷歌
+#🔎 谷歌
 https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/Google, tag=Google, force-policy=Google, update-interval=86400, opt-parser=false, enabled=true
 
 #🔒 瘾私保护
@@ -170,7 +170,7 @@ https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/Twitter, force-p
 #📟 电报代理
 https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/Telegram, tag=电报代理, force-policy=电报代理, update-interval=86400, opt-parser=false, enabled=true
 
-#🌐 全球加速
+#🌐 全球互联
 https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/Global, tag=全球加速, force-policy=全球加速, update-interval=86400, opt-parser=false, enabled=true
 
 #🍎 苹果服务
