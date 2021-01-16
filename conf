@@ -1,4 +1,4 @@
-#📱Quantumult X配置
+#📱Quantumult X配置参考样本
 [general]
 # HTTP检测方获得了响应确认。
 server_check_url=http://www.gstatic.com/generate_204
