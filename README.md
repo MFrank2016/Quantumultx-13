@@ -1,4 +1,5 @@
-1# 1# 图标分流全配置https://raw.githubusercontent.com/gitb1/Quantumultx/main/conf注意：配置只有图标的策略组分流。（温馨提示：quantumulx换另一配置时，请做好自己原有的备份。）
+1# 1# 图标分流全配置https://raw.githubusercontent.com/gitb1/Quantumultx/main/conf
+注意：配置只有图标的策略组分流。⚠️（温馨提示：quantumulx换另一配置时，请做好自己原有的备份。）
 
 Quantumultx策略组图标
 
