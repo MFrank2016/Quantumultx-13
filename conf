@@ -192,10 +192,8 @@ https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrit
 https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Rewrite_lhie1.conf, tag=lhie1去广告, update-interval=86400, opt-parser=false, enabled=true
 
 
-#🔀本地的服务规则优先生效)
+#🔀优先的本地规则
 [filter_local]
-#
-
 host, steamdb.info, direct
 ip-cidr, 10.0.0.0/8, direct
 ip-cidr, 127.0.0.0/8, direct
