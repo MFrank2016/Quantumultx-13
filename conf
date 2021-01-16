@@ -192,7 +192,7 @@ https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrit
 https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Rewrite_lhie1.conf, tag=lhie1去广告, update-interval=86400, opt-parser=false, enabled=true
 
 
-#🔀本地规则优先生效)
+#🔀本地的服务规则优先生效)
 [filter_local]
 #
 
