@@ -1,5 +1,9 @@
 # > Apple
 DOMAIN,testflight.apple.com,PROXY
+# TestFligh
+DOMAIN,beta.apple.com, PROXY
+DOMAIN,testflight.apple.com, PROXY
+
 # > General
 USER-AGENT,archero*,DIRECT
 USER-AGENT,coffeecorp*,DIRECT
