@@ -96,7 +96,7 @@ static=国际媒体, reject, 健康检测, proxy, img-url=https://raw.githubuser
 #🔞𝐏𝐨𝐫𝐧𝐇𝐮𝐛
 static=𝐏𝐨𝐫𝐧𝐇𝐮𝐛, 日本, 健康检测, proxy, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/pornhub.png
 
-#
+#♻️ 负载均衡
 round-robin=负载均衡, resource-tag-regex=国际快车, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/round-robin.png
 
 #💈健康检测
