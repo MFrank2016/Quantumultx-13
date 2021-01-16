@@ -84,7 +84,7 @@ static=Twitter, reject, 健康检测, proxy, 香港, img-url=https://raw.githubu
 #🎬 奈飞
 static=Netflix, 健康检测, reject, 香港, proxy, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/netflix.png
 
-#👤 tiktok 
+#📽tiktok 
 static=tiktok, direct, proxy, 健康检测, 香港, 美国, 日本, 台湾, reject, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/tiktok.png
 
 #📺 Youtube 
@@ -161,7 +161,7 @@ https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/Streaming, tag=�
 # 🎥Youtube
 https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/YouTube, force-policy=Youtube, tag=Youtube, enabled=true, opt-parser=true
 
-#🔻tiktok
+#🎞 tiktok
 https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/TikTok, force-policy=tiktok, tag=tiktok, enabled=true, opt-parser=true
 
 #💡推特
@@ -176,7 +176,7 @@ https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/Global, tag=全�
 #🍎 苹果服务
 https://raw.githubusercontent.com/gitb1/Quantumultx/main/iphone, tag=苹果服务, force-policy=direct, update-interval=86400, opt-parser=false, enabled=true
 
-#♻️ 国内分流
+# 🔂国内分流
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/China.list, tag=国内网站, force-policy=direct, update-interval=86400, opt-parser=false, enabled=true
 
 
