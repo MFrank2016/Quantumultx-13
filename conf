@@ -64,19 +64,19 @@ https://raw.githubusercontent.com/reapple/quantumult_js/main/YiJianLian/Quantumu
 [policy]
 
 #🌏 国际互联 
-static=全球加速, 健康检测, reject, proxy, 香港, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/ie2.png
+static=全球加速, 健康检测, reject, proxy, 香港, 台湾, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/ie2.png
 
 #⛄️ github 
-static=github, proxy, reject, 健康检测, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/github.png
+static=github, proxy, reject, 健康检测, 香港, 台湾, direct, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/github.png
 
 #🌈 谷歌 
 static=Google, proxy, reject, 健康检测, 香港, 日本, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/google.png
 
 #🛫 电报代理 
-static=电报代理, 健康检测, proxy, reject, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/telegram.png
+static=电报代理, proxy, reject, 新加坡, 香港, 台湾, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/telegram.png
 
 #🎼 声田音乐 
-static=声田音乐, reject, 健康检测, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/spotify.png
+static=声田音乐, reject, 健康检测, 香港, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/spotify.png
 
 #🐧 推特
 static=Twitter, reject, 健康检测, proxy, 香港, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/twitter.png
@@ -96,9 +96,11 @@ static=国际媒体, reject, 健康检测, proxy, img-url=https://raw.githubuser
 #🔞𝐏𝐨𝐫𝐧𝐇𝐮𝐛
 static=𝐏𝐨𝐫𝐧𝐇𝐮𝐛, 日本, 健康检测, proxy, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/pornhub.png
 
+#
+round-robin=负载均衡, resource-tag-regex=国际快车, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/round-robin.png
 
 #💈健康检测
-available=健康检测, resource-tag-regex=流媒体|国际快车, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/round-robin.png
+available=健康检测, resource-tag-regex=一键连, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/available.png
 
 #香港 🇭🇰
 available=香港, server-tag-regex=香港|hk|HK, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/hk.png
