@@ -1,6 +1,6 @@
 1# 1#策略组分流全配置https://raw.githubusercontent.com/gitb1/Quantumultx/main/conf
 使用方法：打开QuanX点击右下角风车图标拉到最下面的配置文件-点击导出，备份保留好自己原有的配置之后。再点下载那里，输入以上地址即可。
-
+注意：使用策略分流，圈叉右下角的运行模式必须是分流模式，就是右下角转动的风车图标是三种颜色的那个，如果转动是全蓝色的图标，所有规则分流全是无效的。所有代理将统一由总节点proxr进行代理。
 Quantumultx策略组图标
 
 👤 个人自用图标，采用网络普通位图进行抠图（非矢量图）比较粗糙。图片的地址https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/图标名.png
