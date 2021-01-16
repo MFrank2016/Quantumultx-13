@@ -1,5 +1,5 @@
-1# 1# 图标分流全配置https://raw.githubusercontent.com/gitb1/Quantumultx/main/conf
-注意：配置只有图标的策略组分流。⚠️（温馨提示：quantumulx换另一配置时，请做好自己原有的备份。）
+1# 1#策略组分流全配置https://raw.githubusercontent.com/gitb1/Quantumultx/main/conf
+使用方法：打开QuanX点击右下角风车图标拉到最下面的配置文件-点击导出，备份好自己原有的配置之后。再点下载那里，输入以上地址即可。
 
 Quantumultx策略组图标
 
