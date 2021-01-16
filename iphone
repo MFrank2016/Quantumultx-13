@@ -5,5 +5,5 @@ DOMAIN,itcmobile.itunes.apple.com,App Store Connect
 
 
 # TestFlight
-DOMAIN,beta.apple.com, direct
-DOMAIN,testflight.apple.com, direct
+DOMAIN,beta.apple.com, PROXY
+DOMAIN,testflight.apple.com, PROXY
