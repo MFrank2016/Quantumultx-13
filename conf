@@ -64,7 +64,7 @@ https://raw.githubusercontent.com/reapple/quantumult_js/main/YiJianLian/Quantumu
 [policy]
 
 #🌏 国际互联 
-static=全球互联, 健康检测, reject, proxy, 香港, 台湾, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/ie2.png
+static=国际互联, 健康检测, reject, proxy, 香港, 台湾, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/ie2.png
 
 #⛄️ github 
 static=github, proxy, reject, 健康检测, 香港, 台湾, direct, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/github.png
@@ -171,7 +171,7 @@ https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/Twitter, force-p
 https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/Telegram, tag=电报代理, force-policy=电报代理, update-interval=86400, opt-parser=false, enabled=true
 
 #🌐 全球互联
-https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/Global, tag=全球加速, force-policy=全球加速, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/Global, tag=国际互联, force-policy=国际互联, update-interval=86400, opt-parser=false, enabled=true
 
 #🍎 苹果服务
 https://raw.githubusercontent.com/gitb1/Quantumultx/main/iphone, tag=苹果服务, force-policy=direct, update-interval=86400, opt-parser=false, enabled=true
