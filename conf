@@ -54,6 +54,15 @@ address=/cdn.pcbeta.css.inimc.com/36.27.212.81
 #✈️节点订阅
 [server_remote]
 #1️⃣
+
+https://raw.githubusercontent.com/reapple/quantumult_js/main/YiJianLian/QuantumultX.txt, tag=一键连, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/available.png, update-interval=86400, opt-parser=false, enabled=true
+#1
+https://raw.githubusercontent.com/JungegeCN/YJL/main/Quantumult-X.md, tag=流媒体, img-url=1.png, update-interval=86400, opt-parser=false, enabled=true
+#2
+https://raw.githubusercontent.com/cheng14335/YJLQX/main/README.md, tag=国际快车, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/shadoerocket.png, update-interval=86400, opt-parser=false, enabled=true
+#3
+https://api.xinjie.eu.org/link/mdEMeK4Wk9rxcHCp?sub=3#info=1&out=uk+sg&rename=AA-V2RAY-☠️+打機神線@iplc&emoji=2, tag=全球线路分区, img-url=3.png, update-interval=86400, opt-parser=true, enabled=true
+
 #2️⃣
 #3️⃣
 
