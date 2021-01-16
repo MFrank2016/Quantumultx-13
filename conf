@@ -64,7 +64,7 @@ https://raw.githubusercontent.com/reapple/quantumult_js/main/YiJianLian/Quantumu
 [policy]
 
 #🌏 国际互联 
-static=全球加速, 健康检测, reject, proxy, 香港, 台湾, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/ie2.png
+static=全球互联, 健康检测, reject, proxy, 香港, 台湾, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/ie2.png
 
 #⛄️ github 
 static=github, proxy, reject, 健康检测, 香港, 台湾, direct, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/github.png
