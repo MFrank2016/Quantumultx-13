@@ -63,16 +63,16 @@ https://raw.githubusercontent.com/reapple/quantumult_js/main/YiJianLian/Quantumu
 #💎策略组
 [policy]
 
-#🔎 谷歌 
+#🔎 Google
 static=谷歌 , proxy, reject, 健康检测, 香港, 日本, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/google.png
 
-#📺 油管 
+#📺 Youtube 
 static=油管, 健康检测, reject, 香港, proxy, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/youtube.png
 
-#🐧 推特
+#🐧 Twitter
 static=推特, reject, 健康检测, proxy, 香港, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/twitter.png
 
-#🎬 奈飞
+#🎬 Netflix
 static=奈飞, 健康检测, reject, 香港, proxy, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/netflix.png
 
 #🔞𝐏𝐨𝐫𝐧𝐇𝐮𝐛
@@ -81,20 +81,20 @@ static=P站, 日本, 健康检测, proxy, img-url=https://raw.githubusercontent.
 #🌏 国际互联 
 static=国际互联, 健康检测, reject, proxy, 香港, 台湾, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/ie2.png
 
-#📟 电报代理 
+#📟 Telegram
 static=电报代理, proxy, reject, 新加坡, 香港, 台湾, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/telegram.png
 
-#🎼 声田音乐 
+#🎼 Spotify
 static=声田音乐, reject, 健康检测, 香港, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/spotify.png
 
 #🎶tiktok 
-static=tiktok, direct, proxy, 健康检测, 香港, 美国, 日本, 台湾, reject, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/tiktok.png
+static=国外抖音, direct, proxy, 健康检测, 香港, 美国, 日本, 台湾, reject, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/tiktok.png
 
 #🎥 国际媒体 
 static=国际媒体, reject, 健康检测, proxy, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/mti2.png
 
 #⛄️ github 
-static=github, proxy, reject, 健康检测, 香港, 台湾, direct, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/github.png
+static=git托管站, proxy, reject, 健康检测, 香港, 台湾, direct, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/github.png
 
 #♻️ 负载均衡
 round-robin=负载均衡, resource-tag-regex=国际快车, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/round-robin.png
@@ -143,26 +143,26 @@ https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter
 #🛃 运营劫持
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Guard/Hijacking.list, tag=运营劫持, force-policy=reject, update-interval=86400, opt-parser=false, enabled=true
 
-#🎵spotify
+#🎵声田音乐
 https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/Spotify, tag=声田音乐, force-policy=声田音乐, update-interval=86400, opt-parser=false, enabled=true
 
-#📺 Netflix
+#📺 奈飞
 https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/Netflix, tag=奈飞, force-policy=奈飞, update-interval=86400, opt-parser=false, enabled=true
 
-#🔞 PronHub
+#🔞 P站
 https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/Pornhub, force-policy=P站, tag=P站, enabled=true, opt-parser=true
 
-#⛄️ github
-https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/Github, force-policy=github, tag=github, enabled=true, opt-parser=true
+#⛄️ git托管站
+https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/Github, force-policy=git托管站, tag=git托管站, enabled=true, opt-parser=true
 
 #🎬 国际媒体
 https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/Streaming, tag=国际媒体, force-policy=国际媒体, update-interval=86400, opt-parser=false, enabled=true
 
-# 🎥Youtube
+# 🎥油管
 https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/YouTube, force-policy=油管, tag=油管, enabled=true, opt-parser=true
 
-#🎞 tiktok
-https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/TikTok, force-policy=tiktok, tag=tiktok, enabled=true, opt-parser=true
+#🎞 国外抖音
+https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/TikTok, force-policy=国外抖音, tag=国外抖音, enabled=true, opt-parser=true
 
 #💡推特
 https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/Twitter, force-policy=推特, tag=推特, enabled=true, opt-parser=true
