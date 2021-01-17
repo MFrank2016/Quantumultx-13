@@ -63,20 +63,11 @@ https://raw.githubusercontent.com/reapple/quantumult_js/main/YiJianLian/Quantumu
 #💎策略组
 [policy]
 
-#🌏 国际互联 
-static=国际互联, 健康检测, reject, proxy, 香港, 台湾, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/ie2.png
-
-#⛄️ github 
-static=github, proxy, reject, 健康检测, 香港, 台湾, direct, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/github.png
-
 #🔎 谷歌 
 static=谷歌 , proxy, reject, 健康检测, 香港, 日本, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/google.png
 
-#📟 电报代理 
-static=电报代理, proxy, reject, 新加坡, 香港, 台湾, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/telegram.png
-
-#🎼 声田音乐 
-static=声田音乐, reject, 健康检测, 香港, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/spotify.png
+#📺 油管 
+static=油管, 健康检测, reject, 香港, proxy, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/youtube.png
 
 #🐧 推特
 static=推特, reject, 健康检测, proxy, 香港, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/twitter.png
@@ -84,17 +75,26 @@ static=推特, reject, 健康检测, proxy, 香港, img-url=https://raw.githubus
 #🎬 奈飞
 static=奈飞, 健康检测, reject, 香港, proxy, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/netflix.png
 
+#🔞𝐏𝐨𝐫𝐧𝐇𝐮𝐛
+static=P站, 日本, 健康检测, proxy, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/pornhub.png
+
+#🌏 国际互联 
+static=国际互联, 健康检测, reject, proxy, 香港, 台湾, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/ie2.png
+
+#📟 电报代理 
+static=电报代理, proxy, reject, 新加坡, 香港, 台湾, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/telegram.png
+
+#🎼 声田音乐 
+static=声田音乐, reject, 健康检测, 香港, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/spotify.png
+
 #🎶tiktok 
 static=tiktok, direct, proxy, 健康检测, 香港, 美国, 日本, 台湾, reject, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/tiktok.png
-
-#📺 油管 
-static=油管, 健康检测, reject, 香港, proxy, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/youtube.png
 
 #🎥 国际媒体 
 static=国际媒体, reject, 健康检测, proxy, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/mti2.png
 
-#🔞𝐏𝐨𝐫𝐧𝐇𝐮𝐛
-static=P站, 日本, 健康检测, proxy, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/pornhub.png
+#⛄️ github 
+static=github, proxy, reject, 健康检测, 香港, 台湾, direct, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/github.png
 
 #♻️ 负载均衡
 round-robin=负载均衡, resource-tag-regex=国际快车, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/round-robin.png
