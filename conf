@@ -79,7 +79,7 @@ static=电报代理, proxy, reject, 新加坡, 香港, 台湾, img-url=https://r
 static=声田音乐, reject, 健康检测, 香港, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/spotify.png
 
 #🐧 推特
-static=Twitter, reject, 健康检测, proxy, 香港, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/twitter.png
+static=推特, reject, 健康检测, proxy, 香港, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/twitter.png
 
 #🎬 奈飞
 static=奈飞, 健康检测, reject, 香港, proxy, img-url=https://raw.githubusercontent.com/gitb1/Quantumultx/main/icon/netflix.png
@@ -165,7 +165,7 @@ https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/YouTube, force-p
 https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/TikTok, force-policy=tiktok, tag=tiktok, enabled=true, opt-parser=true
 
 #💡推特
-https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/Twitter, force-policy=Twitter, tag=Twitter, enabled=true, opt-parser=true
+https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/Twitter, force-policy=推特, tag=推特, enabled=true, opt-parser=true
 
 #📟 电报代理
 https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/Telegram, tag=电报代理, force-policy=电报代理, update-interval=86400, opt-parser=false, enabled=true
