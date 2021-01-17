@@ -131,14 +131,9 @@ available=韩国, server-tag-regex=韩国|KR|kr, img-url=https://raw.githubuserc
 #☢️ 规则分流远程订阅
 [filter_remote]
 
-#广告拦截🔰
-https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block_Plus.txt, tag=八万广告, update-interval=86400, opt-parser=false, enabled=true
-
 #🔎 谷歌
 https://raw.githubusercontent.com/gitb1/Quantumultx/main/Filter/Google, tag=谷歌, force-policy=谷歌, update-interval=86400, opt-parser=false, enabled=true
 
-#🔒 瘾私保护
-https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Guard/Privacy.list, tag=隐私保护, force-policy=reject, update-interval=86400, opt-parser=false, enabled=true
 
 #🛃 运营劫持
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Guard/Hijacking.list, tag=运营劫持, force-policy=reject, update-interval=86400, opt-parser=false, enabled=true
@@ -179,6 +174,11 @@ https://raw.githubusercontent.com/gitb1/Quantumultx/main/iphone, tag=苹果服�
 # 🔂国内分流
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/China.list, tag=国内网站, force-policy=direct, update-interval=86400, opt-parser=false, enabled=true
 
+#广告拦截🔰
+https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block_Plus.txt, tag=八万广告, update-interval=86400, opt-parser=false, enabled=true
+
+#🔒 瘾私保护
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Guard/Privacy.list, tag=隐私保护, force-policy=reject, update-interval=86400, opt-parser=false, enabled=true
 
 #✒️重写远程定阅
 [rewrite_remote]
