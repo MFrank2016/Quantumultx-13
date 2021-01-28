@@ -1,5 +1,5 @@
-图标己更新版到https://github.com/gth2021/quantumultx
-随机邮箱的帐户，所以我就不注销了。
+图标己更新到https://github.com/gth2021/quantumultx
+此帐户为随机邮箱的注册的帐户，不使用但依然保然不做注销处理。
 
 
 
